@@ -1,12 +1,16 @@
+body {background-color: #EDF7F2;
+}
+
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #4BB5C1
+	;
 }
 
 #header
 {
-	background: #ccc;
+	background: #B5E655;
 	padding: 20px;
 }
 
@@ -62,7 +66,7 @@
 
 #edito h2
 {
-	color: #000;
+	color: #000000;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -83,12 +87,13 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	background-color: #EDF7F2;
 }
 
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #96CA2D;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
