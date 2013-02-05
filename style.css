@@ -1,13 +1,15 @@
 #container
 {
-	margin: 0 30px;
-	background: #fff;
+	margin: 0 px;
+	background: #F7F2B2;
 }
 
 #header
 {
-	background: #ccc;
+	background: #ADCF4F;
 	padding: 20px;
+	font-family: arial, verdana, sans-serif;
+	font-weight: bold;
 }
 
 #header h1 { margin: 0; }
@@ -45,6 +47,7 @@
 
 #edito
 {
+	background-color: #8E3557;
 	clear: left;
 	padding: 20px;
 	margin: 20px;
@@ -58,6 +61,8 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	font-family: arial, verdana, sans-serif;
+	
 }
 
 #edito h2
@@ -69,6 +74,7 @@
 
 #news
 {	
+	background-color: #8E3557;
 	float: left;
 	width: 40%;
 	padding: 20px;
@@ -83,13 +89,16 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	font-family: arial, verdana, sans-serif;
 }
 
 #footer
 {
+
 	clear: both;
-	background: #ccc;
+	background:#ADCF4F;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
 }
+
