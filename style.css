@@ -1,6 +1,18 @@
 body {background-color: #EDF7F2;
 }
 
+a:hover {
+	color:#96CA2D ;
+}
+
+a:link {
+	color:#4BB5C1;
+}
+
+a:visited {
+	color:;
+}
+
 #container
 {
 	margin: 0 30px;
@@ -62,6 +74,7 @@ body {background-color: #EDF7F2;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	background-color: #EDF7F2;
 }
 
 #edito h2
