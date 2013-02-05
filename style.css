@@ -1,17 +1,9 @@
 body {background-color: #EDF7F2;
 }
 
-a:hover {
-	color:#96CA2D ;
-}
-
-a:link {
-	color:#4BB5C1;
-}
-
-a:visited {
-	color:;
-}
+a:link {color:#7FC6BC;}
+a:hover {color:#96CA2D ;}
+a:visited {color: #4BB5C1;}
 
 #container
 {
