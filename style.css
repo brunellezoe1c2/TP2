@@ -6,6 +6,7 @@
 
 #header
 {
+	text-align: center;
 	background: #ADCF4F;
 	padding: 20px;
 	font-family: arial, verdana, sans-serif;
@@ -97,7 +98,7 @@
 	font-family: arial, verdana, sans-serif;
 	clear: both;
 	background:#ADCF4F;
-	text-align: right;
+	text-align: center;
 	padding: 20px;
 	height: 1%;
 }
